@@ -1,0 +1,23 @@
+a:hover {
+    color: #151515;
+}
+
+.card {
+    border-radius: 25px;
+}
+
+.form-control, .btnBr {
+    border-radius: 7px;
+}
+
+.form-control {
+    height: 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+@media (max-width: 1000px) {
+    .slider__2 {
+        display: none;
+    }
+}
